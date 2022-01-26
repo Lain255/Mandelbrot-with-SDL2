@@ -1,0 +1,6 @@
+w, a, s, d - translation
+q, e - decrease and increase resolution respectivly
+z, x - decrease and increase threshold respectivly
+-, = - decrease and increase zoom respectivly
+t - toggle gradient
+shift (hold) - increases effect of other controls
