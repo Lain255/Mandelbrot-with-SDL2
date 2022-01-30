@@ -11,7 +11,7 @@ int mandelBrot(double a, double b, int n)
     for (int i = 1; i < n; i++) {
         temp = x;
         x = x*x - y*y + a;
-        y = 2 * temp * y + b + i/n;
+        y = 2 * temp * y + b;
         if (threshold < x*x + y*y)
             return i;
     }
